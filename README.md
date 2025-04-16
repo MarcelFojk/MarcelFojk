@@ -24,7 +24,7 @@ In my previous role at Kinguin, I worked on the F2P title **Sneak Out**, where I
 ## 💡 Tech Stack
 
 - 🧰 Unity, C#
-- 🌐 Networking: Unity Netcode for GameObjects (NGO)
+- 🌐 Networking: Fish-net, Photon fusion 2, Mirror
 - 🎮 Gameplay systems, UI architecture, multiplayer
 - 🎨 Shader Graph, ShaderLab, HLSL (in progress)
 - 💻 C++ (currently learning)
