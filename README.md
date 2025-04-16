@@ -34,7 +34,3 @@ In my previous role at Kinguin, I worked on the F2P title **Sneak Out**, where I
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcel-fojk/)
 - ✉️ Open to **remote** positions in **UI, gameplay, or network programming**
-
----
-
-> “The magic of games lies in the balance between logic and emotion — I build systems that bring both to life.”
